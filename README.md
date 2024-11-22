@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Angelswing Front-end Test
+# 🧑🏻‍💻 STYLED COMPONENTS TEST
 
 ## Install dependencies
 
